@@ -1,0 +1,1 @@
+X_rec = recoverData(reshape(cos(1:20), 5, 4)(:,1:3), reshape(sec(1:16), 4, 4), 3)
